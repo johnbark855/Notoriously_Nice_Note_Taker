@@ -12,8 +12,8 @@ app.use(express.urlencoded({ extended:true}));
 app.use(express.json());
 app.use('/assets',express.static('./assets'));
 
-require ('./routes/apiRoutes')(app);
-require ('/routes/htmlRoutes')(app);
+require ('./Routes/apiRoutes')(app);
+require ('/Routes/htmlRoutes')(app);
 
 app.listen(PORT, function() {
     console.log('App is listening to PORT' + PORT);
