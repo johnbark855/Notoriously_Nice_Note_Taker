@@ -9,6 +9,16 @@
 
 It is an application designed to help take notes. The user is able to create, save and delete these notes at their convenience. It is designed to be easy to use and completely functional.
 
+Technologies used:
+<ul>
+<li>HTML</li> 
+<li>JAVASCRIPT</li>
+<li>CSS</li>
+<li>JSON</li>
+<li>SEQUELIZE</li>
+<li>NODE JS</li>
+</ul>
+
 ## Table of Contents
 
 
